@@ -11,6 +11,8 @@
 <body>
   <br>
 
+    <!-- COMENTAR EL SIGUIENTE FORM PARA VER LA TABLA DEL CRUD. CASO CONTRARIO VER EL LOGIN -->
+
   <form action="validar.php" method="POST">
     <h1>
       Sistema de Inventario
@@ -25,6 +27,8 @@
     </label>
     <input type="submit" value="Ingresar">
   </form>
+
+  <!-- DESCOMENTAR ABAJO PARA VER LA TABLA DEL CRUD -->
 
   <!-- <div class="container">
     <h1 class="text-center bg-dark text-light">LISTADO DE PRODUCTOS</h1>
